@@ -26,4 +26,6 @@ function addTask() {
     li.querySelector(".deleteBtn").addEventListener("click", function () {
         li.remove();  // delete the task
     });
+    console.log("Week 1 practice commit");
+
 }
